@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Dirt
+    uniqueID: 935828483
+    locked: 0
+  - name: Path
+    uniqueID: 3922101701
+    locked: 0
+  - name: Grass
+    uniqueID: 1054916801
+    locked: 0
+  - name: Water
+    uniqueID: 1296032627
+    locked: 0
+  - name: Grass2
+    uniqueID: 766424981
+    locked: 0
+  - name: Inner_Rock
+    uniqueID: 2359395401
+    locked: 0
+  - name: PathToRiver
+    uniqueID: 2201780717
+    locked: 0
+  - name: Wheat
+    uniqueID: 3555664471
+    locked: 0
+  - name: Player
+    uniqueID: 1889328193
+    locked: 0
